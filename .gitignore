@@ -1,0 +1,6 @@
+.env
+node_modules
+
+# IDE and Computer files
+.idea/
+DS_Store
